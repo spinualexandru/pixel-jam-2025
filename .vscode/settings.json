@@ -1,0 +1,14 @@
+{
+    "Lua.workspace.userThirdParty": [
+        "/home/zyth/Personal/love-api"
+    ],
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".zed": true,
+        ".vscode": true,
+    }
+}
